@@ -1,0 +1,11 @@
+name: dengue-ce
+title:
+username:
+account: rubensocj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8735137
+bundleId: 7057930
+url: https://rubensocj.shinyapps.io/dengue-ce/
+when: 1680797594.86158
+lastSyncTime: 1680797594.86158
